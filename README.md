@@ -27,6 +27,6 @@ Descrição do projeto Design Patterns com Java Dos Clássicos (GoF) ao Spring F
 ### 7. Pasta `Modelando o iPhone com UML`
 Descrição do projeto Modelando o iPhone com UML. Pode ser atualizado com uma descrição personalizada.
 
-### 89. Pasta `Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway`
+### 8. Pasta `Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway`
 Descrição do projeto Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway. Pode ser atualizado com uma descrição personalizada.
 
